@@ -1,0 +1,32 @@
+/* 
+Fonts
+
+font-family: 'Poppins', serif;
+*/
+
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* 
+Typography
+*/
+
+
+
+
+/* 
+Layout
+*/
+
+.container {
+    display: flex;
+    max-width: 960px;
+    width: 90%;
+    border: 1px dashed red;
+    margin: 0 auto;
+    
+}
